@@ -9,6 +9,7 @@ In this tutorial, you will learn how to perform in-depth text analysis using spa
 First, we recommend you to install [Anaconda distribution of Python](https://www.anaconda.com) which includes the packages useful for data science. Additional packages can be installed using the following command:
 
 * `pip install -r requirements.txt`
+* `python -m spacy download en_core_web_sm`
 * `python -m spacy download en_core_web_md`
 * `python -m textblob.download_corpora`
 
