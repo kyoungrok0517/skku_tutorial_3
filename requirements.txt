@@ -4,3 +4,4 @@ pandas
 gensim 
 spacy
 textblob
+beautifulsoup4
